@@ -20,7 +20,7 @@
 The following image shows the web application's appearance and functionality:
 
 
-![The Generate Password webpage includes a header titled "Password Generator", a card a with text that states "Your Secure Password", and a button named "Generate Password"](./Develop/assets/password-generator.png)
+![The Generate Password webpage includes a header titled "Password Generator", a card a with text that states "Your Secure Password", and a button named "Generate Password"](./assets/password-generator.png)
 
 
 >## Features
