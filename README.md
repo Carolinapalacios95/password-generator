@@ -10,8 +10,6 @@
 
  It will then create a random password based on the user's selections and display it within the generate password field.
 
- Implemented Javascript knowledge of variables, for loops, if statements, functions and event listeners.
-
 >## Code Style & Tech/Framework Used
 
   For this project, I've utilized Visual Studio Code in order to edit the webpage's javascript and implement these changes.
